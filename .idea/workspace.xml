@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="001b8ea9-67b1-4b83-8dbe-370122c5698f" name="Default Changelist" comment="" />
+    <list default="true" id="001b8ea9-67b1-4b83-8dbe-370122c5698f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ChatRoom/cn/edu/hcnu/Client/LoginThread$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChatRoom/cn/edu/hcnu/Client/LoginThread$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ChatRoom/cn/edu/hcnu/Client/LoginThread$1ButtonListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChatRoom/cn/edu/hcnu/Client/LoginThread$1ButtonListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ChatRoom/cn/edu/hcnu/Client/LoginThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChatRoom/cn/edu/hcnu/Client/LoginThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/edu/hcnu/Client/LoginThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/edu/hcnu/Client/LoginThread.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +28,16 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="F:\qin\ChatRoom" />
+        <option value="F:\qin\ChatRoom\.idea" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1n642oVWD9uE9KESOI1g88v3bfV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -33,6 +49,7 @@
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/cn/edu/hcnu/Client" />
@@ -112,12 +129,24 @@
       <updated>1610697001412</updated>
       <workItem from="1610697006359" duration="464000" />
       <workItem from="1610697927180" duration="8453000" />
-      <workItem from="1610711964348" duration="782000" />
+      <workItem from="1610711964348" duration="4638000" />
     </task>
+    <task id="LOCAL-00001" summary="1.登陆验证实现&#10;2.隐藏登录界面&#10;3.登录成功后显示聊天窗口">
+      <created>1610713861080</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1610713861080</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1.登陆验证实现&#10;2.隐藏登录界面&#10;3.登录成功后显示聊天窗口" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.登陆验证实现&#10;2.隐藏登录界面&#10;3.登录成功后显示聊天窗口" />
   </component>
   <component name="WindowStateProjectService">
     <state x="392" y="88" key="#Project_Structure" timestamp="1610697014822">
@@ -128,6 +157,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="651" y="196" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1600.860@0.0.1600.860" timestamp="1610701144336" />
+    <state x="400" y="19" key="CommitChangelistDialog2" timestamp="1610713858808">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="400" y="19" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1610713858808" />
     <state x="891" y="188" key="FileChooserDialogImpl" timestamp="1610701701890">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -140,26 +173,30 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="670" y="131" key="Github.UntrackedFilesDialog/0.0.1600.860@0.0.1600.860" timestamp="1610712810705" />
-    <state width="754" height="164" key="GridCell.Tab.0.bottom" timestamp="1610712596776">
+    <state width="1557" height="164" key="GridCell.Tab.0.bottom" timestamp="1610718117041">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="754" height="164" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1610712596776" />
-    <state width="754" height="164" key="GridCell.Tab.0.center" timestamp="1610712596776">
+    <state width="1557" height="164" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1610718117041" />
+    <state width="1557" height="164" key="GridCell.Tab.0.center" timestamp="1610718117041">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="754" height="164" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1610712596776" />
-    <state width="754" height="164" key="GridCell.Tab.0.left" timestamp="1610712596776">
+    <state width="1557" height="164" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1610718117041" />
+    <state width="1557" height="164" key="GridCell.Tab.0.left" timestamp="1610718117041">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="754" height="164" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1610712596776" />
-    <state width="754" height="164" key="GridCell.Tab.0.right" timestamp="1610712596776">
+    <state width="1557" height="164" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1610718117041" />
+    <state width="1557" height="164" key="GridCell.Tab.0.right" timestamp="1610718117041">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="754" height="164" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1610712596776" />
+    <state width="1557" height="164" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1610718117041" />
     <state x="401" y="8" key="SettingsEditor" timestamp="1610701704106">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="401" y="8" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1610701704106" />
+    <state x="392" y="162" key="Vcs.Push.Dialog.v2" timestamp="1610713869014">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="162" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1610713869014" />
     <state x="495" y="319" key="com.intellij.ide.util.TipDialog" timestamp="1610711981441">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
