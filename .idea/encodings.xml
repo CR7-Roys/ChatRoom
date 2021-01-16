@@ -3,6 +3,7 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/src/cn/edu/hcnu/Client/ChatThreadWindow.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/cn/edu/hcnu/Client/Client.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/edu/hcnu/Client/GetMessageThread.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/cn/edu/hcnu/Client/LoginThread.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/cn/edu/hcnu/util/MD5.java" charset="GBK" />
   </component>
